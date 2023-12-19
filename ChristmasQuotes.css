@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+   width: 100vw;
+   height: 100vh;
+   background: #7E30E1; 
+}
+.container{
+    width: 30%;
+    height: 300px;
+    border-radius: 10%;
+    background: transparent;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.r{
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color:white;
+    text-align: center;
+    font-size: 27px;
+    font-family: cursive;
+    margin: 10px;
+}
+#demo{
+    position: absolute;
+    top: 50%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    font-family: cursive;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#btn2{
+    position: absolute;
+    top: 80%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-family:"Roboto", sans-serif;
+    font-weight: bold;
+    background: #4CB9E7;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 5px;
+    cursor:pointer;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;        
+}
+#btn{
+    position: absolute;
+    top: 80%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    font-family:"Roboto", sans-serif;
+    font-weight: bold;
+    background: #4CB9E7;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 5px;
+    cursor:pointer;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#hu{
+    position: absolute;
+    top: 50%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    font-family: cursive;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#ho{
+    position: absolute;
+    top: 50%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    font-family: cursive;
+    color: #fff; 
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#he{
+    position: absolute;
+    top: 50%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    font-family: cursive;
+    color: #fff; 
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#hi{
+    position: absolute;
+    top: 50%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    font-family: cursive;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+}
